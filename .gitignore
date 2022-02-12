@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Node/Yarn
+.npm
+node_modules
+
+# .Net
+*.user
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# JetBrains
+*.sln.iml
+.idea
+
+# Nuxt
+.nuxt
